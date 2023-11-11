@@ -13,8 +13,8 @@ The Bot Collects Guild Member Activity Like Joining Leaving For Welcome System
 **Owner and Data Controller**
 
 Ownership Reedroux LLC 
-David Ian Black
-Contact reedrouxmusic@gmx.net
+Contact options
+Email address: reedrouxmusic@gmx.net
 
 
 Owner contact email: globalbot@gmx.net
