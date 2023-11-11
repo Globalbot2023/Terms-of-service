@@ -18,4 +18,4 @@ Support contact email: globalbot@gmx.net
 
 We Don't Ask You Any Kind Of Thing Which Is Related To Your Security
 
-There Is No Premium Of Musico So Don't Fall In Scam Of Paying Unnecessary Bucks
+There Is No Premium Of Global Bot So Don't Fall In Scam Of Paying Unnecessary Bucks
