@@ -10,14 +10,11 @@ The Bot Collects User's Presence For Server Info CMD
 The Bot Collects Guild Member Activity Like Joining Leaving For Welcome System
 
 
-**Owner and Data Controller**
-
-Ownership Reedroux LLC 
-Contact options
-Email address: reedrouxmusic@gmx.net
-
-
-Owner contact email: globalbot@gmx.net
+Owner and Data Controller
+Reedroux LLC 
+42 Darrell Pl, San Francisco, CA 94133, USA
+Owner contact email: reedrouxmusic@gmx.net 
+Support contact email: globalbot@gmx.net
 
 We Don't Ask You Any Kind Of Thing Which Is Related To Your Security
 
